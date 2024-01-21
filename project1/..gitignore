@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+.cache/
+.cached_data/
+
+# Local development settings
+local_settings.py
+
+# Virtual environment
+venv/
+venv3/
+env/
+ENV/
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore pip virtual environment
+requirements.txt
